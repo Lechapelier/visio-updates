@@ -5,14 +5,14 @@
         <link>https://lechapelier.github.io/visio-updates/appcast.xml</link>
         <item>
             <title>Version 0.94</title>
-            <pubDate>Thu, 29 Jan 2026 16:02:00 +0100</pubDate>
+            <pubDate>Thu, 29 Jan 2026 16:10:58 +0100</pubDate>
             <sparkle:version>094</sparkle:version>
             <sparkle:shortVersionString>0.94</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://lechapelier.github.io/visio-updates/VISIO-0.94.zip"
-                sparkle:edSignature="WF9oLum30TPnw/6uYcA6+eCjLXf1vSVs4w6eT9iKnWsBkqG21M12vwv5yJdL2crr2/Q/jKI9Th5xO0hdLUYiCg=="
-                length="7446088"
+                sparkle:edSignature="FsjrLIzreYjwJLCXww59w+0rsJ1OcYjcIoyAn6nVJ/4YkmaQUIzTotkN4FT3T5+CCLFokxxIHg1ETAKBtSFuDg=="
+                length="7446098"
                 type="application/octet-stream"/>
         </item>
     </channel>
