@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>VISIO</title>
+        <link>https://VOTRE-URL/appcast.xml</link>
+        <description>Mises à jour de VISIO</description>
+        <language>fr</language>
+
+        <item>
+            <title>Version 0.91</title>
+            <description><![CDATA[
+                <h2>Nouveautés</h2>
+                <ul>
+                    <li>Ajout du système de mise à jour automatique</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 29 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>91</sparkle:version>
+            <sparkle:shortVersionString>0.91</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://VOTRE-URL/VISIO-0.91.zip"
+                sparkle:edSignature="SIGNATURE_A_GENERER"
+                length="0"
+                type="application/octet-stream"/>
+        </item>
+
+    </channel>
+</rss>
