@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>VISIO</title>
-        <link>https://VOTRE-URL/appcast.xml</link>
+        <link>https://lechapelier.github.io/visio-updates/appcast.xml</link>
         <description>Mises à jour de VISIO</description>
         <language>fr</language>
 
@@ -19,9 +19,9 @@
             <sparkle:shortVersionString>0.91</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://VOTRE-URL/VISIO-0.91.zip"
-                sparkle:edSignature="SIGNATURE_A_GENERER"
-                length="0"
+                url="https://lechapelier.github.io/visio-updates/VISIO-0.91.zip"
+                sparkle:edSignature="FNZT3q2v6cP1aGm6GR78FkClwsFi88RtdLmJzTeLE1LpS+AG+sjNVSTTlp1quMYvXqsla0V8bOUDTZvd/O4IAA=="
+                length="7610599"
                 type="application/octet-stream"/>
         </item>
 
