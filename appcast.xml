@@ -3,27 +3,17 @@
     <channel>
         <title>VISIO</title>
         <link>https://lechapelier.github.io/visio-updates/appcast.xml</link>
-        <description>Mises à jour de VISIO</description>
-        <language>fr</language>
-
         <item>
-            <title>Version 0.91</title>
-            <description><![CDATA[
-                <h2>Nouveautés</h2>
-                <ul>
-                    <li>Ajout du système de mise à jour automatique</li>
-                </ul>
-            ]]></description>
-            <pubDate>Wed, 29 Jan 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>91</sparkle:version>
-            <sparkle:shortVersionString>0.91</sparkle:shortVersionString>
+            <title>Version 0.92</title>
+            <pubDate>Thu, 29 Jan 2026 14:00:15 +0100</pubDate>
+            <sparkle:version>092</sparkle:version>
+            <sparkle:shortVersionString>0.92</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://lechapelier.github.io/visio-updates/VISIO-0.91.zip"
-                sparkle:edSignature="FNZT3q2v6cP1aGm6GR78FkClwsFi88RtdLmJzTeLE1LpS+AG+sjNVSTTlp1quMYvXqsla0V8bOUDTZvd/O4IAA=="
-                length="7610599"
+                url="https://lechapelier.github.io/visio-updates/VISIO-0.92.zip"
+                sparkle:edSignature=""
+                length="7442381"
                 type="application/octet-stream"/>
         </item>
-
     </channel>
 </rss>
