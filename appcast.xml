@@ -4,15 +4,15 @@
         <title>VISIO</title>
         <link>https://lechapelier.github.io/visio-updates/appcast.xml</link>
         <item>
-            <title>Version 0.95.42</title>
-            <pubDate>Mon, 02 Feb 2026 21:43:50 +0100</pubDate>
-            <sparkle:version>09542</sparkle:version>
-            <sparkle:shortVersionString>0.95.42</sparkle:shortVersionString>
+            <title>Version 0.95.43</title>
+            <pubDate>Tue, 03 Feb 2026 11:06:55 +0100</pubDate>
+            <sparkle:version>09543</sparkle:version>
+            <sparkle:shortVersionString>0.95.43</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://lechapelier.github.io/visio-updates/VISIO-0.95.42.zip"
-                sparkle:edSignature="iB4f4npAIRIjxbXxJb1x9RHXqVTUiY7scujnEf6uSrBQM9rqf1Vfj52HGkTUQ5z2U1+zAcTasYXANhZLzTP+CQ=="
-                length="7726057"
+                url="https://lechapelier.github.io/visio-updates/VISIO-0.95.43.zip"
+                sparkle:edSignature="x5DATMEnSR1luvz9zUTnPiaPwSkKsV/267D7bgtwYtEZkQprd0dmPosCbp9WQVyqFAQtTqD+yQVH3BnkttghBw=="
+                length="7726071"
                 type="application/octet-stream"/>
         </item>
     </channel>
